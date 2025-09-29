@@ -1,4 +1,3 @@
-
 let userInput=document.getElementById("input")
 let expression =""
 
@@ -13,4 +12,5 @@ function equal(){
 function erase(){
     expression=""
     userInput.value= expression
+
 }
