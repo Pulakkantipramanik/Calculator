@@ -1,6 +1,5 @@
 let userInput=document.getElementById("input")
 let expression =""
-
 function click1(x){
     expression = expression+ x
     userInput.value = expression
