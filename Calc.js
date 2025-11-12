@@ -9,6 +9,7 @@ function equal(){
     expression =eval(expression)
     userInput.value = expression
 }
+
 function erase(){
     expression=""
     userInput.value= expression
