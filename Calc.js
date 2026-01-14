@@ -13,7 +13,9 @@ function erase(){
     expression=""
     userInput.value= expression
 
+    
 }
+
 
 
 
